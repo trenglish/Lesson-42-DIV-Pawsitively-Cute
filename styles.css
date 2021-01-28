@@ -1,0 +1,44 @@
+img {
+    height: 200px;
+    width: 260px;
+}
+
+.header {
+    background-color: lightblue;
+    padding: 20px;
+    border: 10px solid orange;
+}
+
+.troy {
+    background-color: orange;
+    padding: 20px;
+    margin: 20px;
+    border: 8px solid black;
+}
+
+.richard {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid grey;
+}
+
+.duchess {
+    background-color: #964146;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid tan;
+}
+.dogs {
+    border: 5px solid yellow;
+    padding: 10px;
+    margin: 10px;
+}
+h2 {
+    background-color: orange;
+    text-align: center;
+    font-family: 'Kalam', cursive;
+}
+h1 {
+    font-family: 'Bebas Neue', cursive;
+}
